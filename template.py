@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-project_name= "US visa"
+project_name= "US_visa"
 
 list_of_files=[
     f"{project_name}/__init__.py",
@@ -34,7 +34,7 @@ list_of_files=[
     f"{project_name}/utils/main_utils.py",
 
     "app.py",
-    "requirement.txt",
+    "requirements.txt",
     "Dockerfile",
     ".dockerignore",
     "demo.py",
