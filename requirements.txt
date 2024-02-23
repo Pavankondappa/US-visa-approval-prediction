@@ -8,7 +8,7 @@ scipy
 scikit-learn
 imblearn
 xgboost
-capboost
+catboost
 pymongo
 from_root
 evidently==0.2.8
